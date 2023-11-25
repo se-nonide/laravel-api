@@ -14,5 +14,8 @@ The project is based on the official Laravel documentation.
 
 To run the project run:
 ```
+cd example-app
+```
+```
 php artisan serve
 ```
