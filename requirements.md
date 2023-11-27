@@ -1,6 +1,6 @@
-# Laravel developer guide
+# Requirements
 
-This document defines the steps to follow to start development. How to install dependencies and other useful annotations
+This document defines the steps to follow to start development. How to install dependencies and other requirements.
 
 ## Spftware requeriments
 - PHP (Base language)
