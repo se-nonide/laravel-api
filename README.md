@@ -33,7 +33,7 @@ First we will create the migration for the new table in the database:
 php artisan make:migration crate_students_table
 ```
 
-Add the following code on the new migration in `example-app/database/migrations/yyyy_mm_dd_hhmmss_create_students_table.php``:
+Add the following code on the new migration in `example-app/database/migrations/yyyy_mm_dd_hhmmss_create_students_table.php`:
 ```php
 public function up(): void
 {
